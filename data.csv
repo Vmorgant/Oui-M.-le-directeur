@@ -1,0 +1,44 @@
+name,image,description,qty
+Jean Nairienaffaire,JeanNairienAffaire.png,"Ne s'implique pas dans le projet et refuse tout changement.",1
+Hanim Ateur,HanimAteur.png,"Toujours prêt à participer aux séances de team building mais rarement présent à son poste",1
+Yvan Durev,YvanDurev.png,"Le commercial que les clients adore, toujours prêt à les satisfaire.",1
+Jake Sasper,JakeSasper.png,"Toujours à l'heure et près à s'occuper des tâches ingrates ce qui exaspère ses collègues.",1
+Jésus Ipadumatin,retard.png,"Toujours en retard, sauf pour la pause dej.",1
+Jay Lassolution,expert.png,"L'expert qui sait tout sur tout mais n'écoute pas les autres.",1
+Théo Courant,,"Un véritable moulin à parole au point que plus personne ne l'écoute vraiment.",1
+Edwige Prendpasderisque,manageuse.png,"Une super manageuse, ne prendra aucune décision susceptible de déranger son équipe.",1
+Tim Hide,timide.png,"On le pensait muet et puis un jour il a enfin donné son avis.",1
+La retro un peu houleuse,,"2 démissions, 3 arrêts médicaux, 6 côtes fêlées...ça fait un peu beaucoup",1
+La demo bling bling,,"Avait on besoin de dépenser la moitié du budget du projet en buffet?",1
+Le repas d'affaire copieux,repas.png,"3h de pause déjeuner, difficile de se remettre au travail ensuite",1
+La machine à café en panne,cafe.png,"Comment travailler sans sa dose ?",1
+Les pauses à répétitions,,"Entre le babyfoot, la console, le café et les séances de sophrologie on ne sait plus quand travailler",1
+Les spécifications détaillées,,"400 pages de littératures et c'est loin d'être un bon roman",1
+Le projet innovant,,"Motivation 300% guidage 0%",1
+La méthode non maitrisé,,"On va essayer la méthode a Gille il parait que ça marche bien",1
+Le budget super serré,argent.png,"La rentabilité avant tout.",1
+L'équipe soudée,equipe.png,"Adore travailler ensemble mais attention les nouveaux la confiance ça se mérite",1
+L'esprit de compétition,,"Favorise l'émulation mais pas la cohésion",1
+Les histoires de couple,famille.png,"Des liens se crées avec la jalousie qui vient avec",1
+L'open space gigantesque,,"Tout le monde sur le même plateau",1
+Les bureaux cloisonnés,,"Au moins je peux faire ce que je veux.",1
+Les réunions à répétition,reunion.png,"Et si on faisait une pré réunion de préparation de la demo privée?",1
+Les bruits qui courent,,"On parle beaucoup à la machine à café, par contre la véracité des informations n'est pas certaine.",1
+Les 426 process métiers,,"Au moins on aura tout cadré.",1
+Le processus d'intégration,,"Frite à la cantine, animations en tout genre on va l'appater ce nouveau.",1
+Le serious game clivant,,"Comment créer un burn out en une session.",1
+Le manque de matériel,,"Un pc pour 3 ça favorise les échanges.",1
+L'afterwork beuverie,drunk.png,"On renforce les liens, et les migraines matinales.",1
+Les retards des transports,,"On devrait peut être déménager, ou encourager le télétravail.",1
+Les formations sketchnoting,,"Personne sur son téléphone en réunion, par contre le budget feutre et crayons de couleur va exploser.",1
+Les ateliers chamallow,,"La mutuelle d'entreprise prends désormais en charge l'insuline.",1
+L'inter contrat sans objectif,,"A son retour il avait rattrapé toutes ses séries en retard.",1
+La formation obsolète,disquette.png,"On ne sait jamais quand on aura à nouveau besoin du minitel.",1
+Le bot blagueur,,"Super fun au début, dommage qu'on ne puisse pas activer le mode ne pas déranger.",1
+Les outils diversifiés,,"Ah mais non pour la demande de congés on passe pas par mail on a une application pour.",1
+Le projet sans innovation,,"Pourquoi inventer quand on peut faire comme d'habitude ?",1
+Rejeter la faute,rejeter.png,"Rejeter la faute sur un collègue",14
+Interrompre,stop.png,"Interrompre l'explication d'un collègue",14
+Avertissement,avertissement.png,"Un avertissement sans gravité",1
+Blâme,,"Attention c'est le blâme",1
+Renvoie,renvoie.png,"C'est fini vous êtes viré",1
